@@ -1,0 +1,8 @@
+<suite name="TestSuiteEmails1">
+  <test name="AutoQA1">
+   <classes>
+      <class name="by.htp.emailtest.LoginInTest"/>
+      <class name="by.htp.emailtest.SendingEmail"/>   
+   </classes>  
+  </test>
+</suite>
